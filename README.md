@@ -26,8 +26,8 @@ The primary goal is to create an autonomous agent capable of achieving high scor
 
 ## Prerequisites 💻
 
-*   **Python 3.9** 🐍 (This is a strict requirement as per instructions)
-*   `pip` (Python package installer)
+*   **Python 3.9** 🐍
+*   `pip`
 
 ## Installation ⚙️
 
