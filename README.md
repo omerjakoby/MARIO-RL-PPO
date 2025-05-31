@@ -33,8 +33,8 @@ The primary goal is to create an autonomous agent capable of achieving high scor
 
 1.  **Clone the repository (if you haven't already):**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-name>
+    git clone https://github.com/omerjakoby/MARIO-RL-PPO.git
+    cd MARIO-RL-PPO
     ```
 
 2.  **Install the required Python libraries:**
