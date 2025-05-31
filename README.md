@@ -31,14 +31,14 @@ The primary goal is to create an autonomous agent capable of achieving high scor
 
 ## Installation ⚙️
 
-1.  **Clone the repository (if you haven't already):**
+1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-name>
+    git clone https://github.com/omerjakoby/MARIO-RL-PPO.git
+    cd MARIO-RL-PPO
     ```
 
 2.  **Install the required Python libraries:**
-    Make sure you are in the project's root directory where `requirements.txt` is located.
+    Make sure you are in the project's root directory (`MARIO-RL-PPO`) where `requirements.txt` is located.
     ```bash
     pip install -r requirements.txt
     ```
