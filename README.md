@@ -1,4 +1,5 @@
-![Mario Super Jump](https://c.tenor.com/mOfM5aJp4qgAAAAC/mario-super.gif)
+
+![mario-super](https://github.com/user-attachments/assets/0aa1162d-be74-4827-9bf6-39cf1d6e1a93)
 
 # PPO for Super Mario Bros 🍄🤖
 
