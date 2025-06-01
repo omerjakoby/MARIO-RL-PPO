@@ -1,4 +1,4 @@
-![Super Mario Jump](https://media.tenor.com/0i_kE7w1h3sAAAAC/mario-super-jump.gif)
+<div class="tenor-gif-embed" data-postid="13737166" data-share-method="host" data-aspect-ratio="1.08333" data-width="100%"><a href="https://tenor.com/view/mario-super-jump-nintendo-video-gif-13737166">Mario Super GIF</a>from <a href="https://tenor.com/search/mario-gifs">Mario GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # PPO for Super Mario Bros 🍄🤖
 
