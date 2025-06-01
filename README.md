@@ -1,3 +1,5 @@
+![Super Mario Jump](https://media.tenor.com/0i_kE7w1h3sAAAAC/mario-super-jump.gif)
+
 # PPO for Super Mario Bros 🍄🤖
 
 This project implements the Proximal Policy Optimization (PPO) algorithm with an Actor-Critic architecture to train an AI agent to play Super Mario Bros. The agent learns to navigate the game environment by processing visual input (frames from the game) and receiving rewards.
