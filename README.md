@@ -32,7 +32,7 @@ The primary goal is to create an autonomous agent capable of achieving high scor
 
 ## Prerequisites 💻
 
-*   **Python 3.9** 🐍
+*   **Python 3.9** 🐍 (MUST!!!!!)
 *   `pip`
 
 ## Installation ⚙️
@@ -84,3 +84,4 @@ Execute the main Python script:
 
 ```bash
 python ppo_mario.py
+
